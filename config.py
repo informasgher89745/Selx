@@ -1,0 +1,8 @@
+API_ID = "21064438"
+API_HASH = "052d2f50aac2fe3e1d3047be2ec38f31"
+BOT_TOKEN = "7593276750:AAE2my2t2DTEypVZEf4aehrlqrm55ChzHmw"
+STRING_SESSION = "BQFBavYAvNT0lzy1kwejVJKhiAiR-lT0R6_0GFwNfmHbU26ae-ssEZnmH1hOk71pdNQSGkTDCmkEM-06jVkSxi0dr4bjsaQgOt5K-AmDJvvUqiH8SR9uCFJO01tyOOAzkVYyy4wLQxbiB4QgOzjCHbJOZA3S_GKX4ew-yMkeQNbI9GhJviqInp8MEjfpIJhzp4R32e5qMQxdifmPpbLySaAxy4nT3vixfBlZZ0IhOE7SHk4OymcxFpsdilTA_j_-jcSz2R36rJYU7ZjOfD4NnofFd_nj9KpKHpBkqhoPusEw6qvXzb6GlMYPyTUg8fwJyIwUf548wY3KQCsmdV7zZ11c00HueQAAAAGjMFplAA"
+MONGO_DB_URL = "mongodb+srv://sushil:sushil@lgcyalex8565.9q6nj.mongodb.net"
+OWNER_ID = "6397654988"
+LOG_GROUP_ID = "-1002178243149"
+START_IMAGE_URL = "https://files.catbox.moe/1ha0uc.png"
