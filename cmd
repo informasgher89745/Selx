@@ -1,14 +1,25 @@
 apt update -y && apt install sudo -y
 
+sudo apt update
+sudo apt install python3.12-venv
 
-sudo apt install curl ffmpeg git nano python3-pip screen -y
+python3 -m venv venv
+
+source venv/bin/activate
+
+pip install -r requirements.txt
 
 
-pip3 install -r requirements.txt --force-reinstall
+
+sudo apt update
+sudo apt install libjpeg-dev zlib1g-dev libfreetype6-dev liblcms2-dev libopenjp2-7-dev libtiff5-dev
 
 
-screen -R MusicBot
+pip install --no-cache-dir pillow
 
+
+
+screen -R SelxMusic
 
 
 python3 -m bot
