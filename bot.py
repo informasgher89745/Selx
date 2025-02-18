@@ -362,7 +362,7 @@ Feel free to use me...**"""
                 ],
                 [
                     InlineKeyboardButton(
-                        text="📌 Group",
+                        text="💬 Group",
                         url="https://t.me/+ZnY2s0f8b0QyZDFl"
                     ),
                     InlineKeyboardButton(
@@ -467,7 +467,7 @@ Feel free to use me...**"""
                 ],
                 [
                     InlineKeyboardButton(
-                        text="📌 Group",
+                        text="💬 Group",
                         url="https://t.me/+ZnY2s0f8b0QyZDFl"
                     ),
                     InlineKeyboardButton(
